@@ -9,3 +9,6 @@ h3 {
 .rating span {
     margin-right: 0.1rem;
 }
+.list-group-item {
+    border: none;
+}
